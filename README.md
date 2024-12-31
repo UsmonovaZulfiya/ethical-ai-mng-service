@@ -1,1 +1,7 @@
-# ethical-ai-mng-service
+# Ethical Management of Artificial Intelligence in the Service Industry
+
+**Abstract:**
+
+In the rapidly evolving scale of AI usage in different industries — starting from chatbots and virtual assistants to decision-making processes and recommendation systems. As those innovations become more sophisticated and ubiquitous, the need for ethical considerations the businesses need to meet are the current hot topic. In this work, we decided to question the ethical management of AI specifically in the service sector, as due to our literature review there is a shortage of research findings in this direction. We try to partially fill in this literature gap by reviewing the current literature and developing the conceptual framework of the ethical management of AI in the Service Industry. We look through the political, economic, social, technological, environmental, and legal perspectives and state the key ethical considerations that latter will be used to develop our framework. The conceptual framework consists of clusters of Core Ethical Principles, Key Stakeholders, Layers of Interaction, Ethical Decision Making Process, and Metrics of Evaluation, and serves as a way to understand and learn the relationships between ethical principles, AI technologies, and their application in the service industry.
+
+**Keywords:** Ethical AI, Service Industry, AI Management, Artificial Intelligence Ethics, Responsible AI, PESTEL analysis, Conceptual Framework.
